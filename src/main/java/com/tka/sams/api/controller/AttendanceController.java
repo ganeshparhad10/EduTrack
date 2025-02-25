@@ -20,7 +20,7 @@ import com.tka.sams.api.service.AttendanceRecordService;
 import com.tka.sams.api.service.StudentService;
 import com.tka.sams.api.service.SubjectService;
 import com.tka.sams.api.service.UserService;
-
+// Controller setup
 @RestController
 @RequestMapping("/attendance")
 @CrossOrigin("http://localhost:4200")
